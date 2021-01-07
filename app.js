@@ -1,11 +1,13 @@
- var firebaseConfig = {
-    apiKey: "AIzaSyCjL5nvWfeCv4-_0ztkPsVhhkBpHZn10CM",
-    authDomain: "contact-book-a677b.firebaseapp.com",
-    projectId: "contact-book-a677b",
-    storageBucket: "contact-book-a677b.appspot.com",
-    messagingSenderId: "276767324453",
-    appId: "1:276767324453:web:07b10bf173bbc36e6682cc",
-    measurementId: "G-TBZRSY14BT"
+ // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDvaXqZozkCvH8pClx7mzntFH-7qxUFojE",
+    authDomain: "contact-firestore-19bde.firebaseapp.com",
+    projectId: "contact-firestore-19bde",
+    storageBucket: "contact-firestore-19bde.appspot.com",
+    messagingSenderId: "1028050492528",
+    appId: "1:1028050492528:web:c65012ae11cc57c537e8b5",
+    measurementId: "G-VDQGF1D7QY"
   };
 firebase.initializeApp(firebaseConfig);
 
