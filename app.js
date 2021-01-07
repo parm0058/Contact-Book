@@ -9,8 +9,6 @@
     appId: "1:1028050492528:web:c65012ae11cc57c537e8b5",
     measurementId: "G-VDQGF1D7QY"
   };
-firebase.initializeApp(firebaseConfig);
-
 const db = firebase.firestore();
 
 const contactList = {
