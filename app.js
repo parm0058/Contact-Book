@@ -1,13 +1,12 @@
-var firebaseConfig = {
-    apiKey: "AIzaSyAkPi5APF_2E4CYRqT7HCvpDjdPleiU_LM",
-    authDomain: "contact-book-d27f6.firebaseapp.com",
-    databaseURL: "https://contact-book-d27f6.firebaseio.com",
-    projectId: "contact-book-d27f6",
-    storageBucket: "contact-book-d27f6.appspot.com",
-    messagingSenderId: "749821201951",
-    appId: "1:749821201951:web:1e8e11c86274d4e94d8f2a",
-    measurementId: "G-0T9RE78DGX"
-};
+ var firebaseConfig = {
+    apiKey: "AIzaSyCjL5nvWfeCv4-_0ztkPsVhhkBpHZn10CM",
+    authDomain: "contact-book-a677b.firebaseapp.com",
+    projectId: "contact-book-a677b",
+    storageBucket: "contact-book-a677b.appspot.com",
+    messagingSenderId: "276767324453",
+    appId: "1:276767324453:web:07b10bf173bbc36e6682cc",
+    measurementId: "G-TBZRSY14BT"
+  };
 firebase.initializeApp(firebaseConfig);
 
 const db = firebase.firestore();
